@@ -1,0 +1,9 @@
+{
+  "name": "Byte",
+  "description": "Byte is your smart culinary tech companion. Snap a fridge photo, get AI-powered recipes, manage shopping with maps, and cook with a context-aware voice assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
